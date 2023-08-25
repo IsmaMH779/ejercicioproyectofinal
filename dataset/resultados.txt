@@ -1,0 +1,6 @@
+Regresión Logística: Accuracy = 1.0000
+Árbol de Decisión: Accuracy = 1.0000
+Random Forest: Accuracy = 1.0000
+Naive Bayes: Accuracy = 1.0000
+SVM: Accuracy = 1.0000
+K Vecinos Más Cercanos: Accuracy = 1.0000

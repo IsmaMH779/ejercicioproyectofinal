@@ -1,0 +1,6 @@
+Logistic Regresion: Accuracy = 0.7403
+Decision tree: Accuracy = 0.7208
+Random Forest: Accuracy = 0.7597
+Naive Bayes: Accuracy = 0.7662
+SVM: Accuracy = 0.7662
+K Vecinos Cercanos: Accuracy = 0.6623
